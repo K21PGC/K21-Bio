@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@200..900&display=swap);
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Times New Roman', Times, serif;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%;
+
+    background: url(https://i.redd.it/bpxxqqvps4h91.gif);
+    background-position: center;
+    background-size: auto;
+}
+.profile{
+    position: relative;
+    top: -380px;
+    right: -18.3%;
+    color: whitesmoke;
+    font-size: 3.40em;
+    border: 1.5px solid silver;
+    border-radius: 50%;
+}
