@@ -13,8 +13,8 @@
 }
 
 body{
-    background-image: url(pimg.jpg);
-    min-height: 120vh;
+    background-image: url(/images/pimg.jpg);
+    min-height: 100vh;
     background-size: cover;
     backdrop-filter: blur(10px);
     color: white;
@@ -34,7 +34,6 @@ main i{
     color: var(--dc-color);
 }
 .profile-image{
-    background-image: url(pimg.jpg);
     width: 125px;
     height: 125px;
     border-radius: 50%;
