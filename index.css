@@ -34,6 +34,7 @@ main i{
     color: var(--dc-color);
 }
 .profile-image{
+    background-image: url(pimg.jpg);
     width: 125px;
     height: 125px;
     border-radius: 50%;
