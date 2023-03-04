@@ -13,7 +13,7 @@
 }
 
 body{
-    background-image: url(pimg.jpg);
+    background: url(pimg.jpg);
     min-height: 100vh;
     background-size: cover;
     backdrop-filter: blur(10px);
